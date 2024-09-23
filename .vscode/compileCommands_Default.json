@@ -1,0 +1,170 @@
+[
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\BreakableCrate.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\BreakableCrate.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\Bullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\Bullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\DamageArea.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\DamageArea.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\Door.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\Door.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\EnemyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\EnemyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\GlitchAdventure.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\GlitchAdventure.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\GlitchAdventure.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\GlitchAdventureGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\GlitchAdventureGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\PickupItem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\PickupItem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\Source\\GlitchAdventure\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GlitchAdventure\\.vscode\\compileCommands_Default\\GlitchAdventure.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
