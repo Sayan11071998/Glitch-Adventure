@@ -1,4 +1,4 @@
-# ***🚀 GlitchAdventure 🎮***
+# ***🚀 Glitch Adventure 🎮***
 
 I’m excited (and mildly relieved!) to finally share GlitchAdventure—my latest Unreal Engine 5 creation! Imagine a world where tricky platforms, fierce enemies, and hidden coins come together for an epic adventure, and you’ve got GlitchAdventure. This game combines fast-paced platforming with combat and exploration, throwing you into levels where timing, strategy, and a bit of luck are key to survival.
 
