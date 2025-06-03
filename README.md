@@ -1,16 +1,52 @@
-# ***🚀 Glitch Adventure 🎮***
+# 🚀 Glitch Adventure 🎮
 
-I’m excited (and mildly relieved!) to finally share GlitchAdventure—my latest Unreal Engine 5 creation! Imagine a world where tricky platforms, fierce enemies, and hidden coins come together for an epic adventure, and you’ve got GlitchAdventure. This game combines fast-paced platforming with combat and exploration, throwing you into levels where timing, strategy, and a bit of luck are key to survival.
+Welcome to **Glitch Adventure** — a fast-paced platformer built in **Unreal Engine 5** that challenges your reflexes, timing, and creativity.  
+From tricky platforms to fierce enemies and hidden treasures, this game is all about mastering the chaos and surviving the unexpected.
 
-### **🎮 In "GlitchAdventure," players will:**
-- 🛤️ Master intricate platforms while avoiding the deadly sea water—because nothing says “game over” like an unexpected swim!
-- ⚙️ Conquer moving platforms and obstacles that challenge both your timing and patience (I may have lost a few lives figuring them out).
-- 💰 Hunt for coins scattered throughout each level—because, let’s be real, what's an adventure without treasure?
-- 📦 Smash wooden boxes that may or may not have coins... you’ll just have to take a chance.
-- 🔥 Battle enemies using fire bullets, carefully managing health and strategy (yes, that means dodge and shoot!).
-- 🔑 Seek out the "Key" to unlock new levels and keep the adventure going!
+---
 
-This project wasn’t just about designing a game, but about pushing myself to integrate advanced mechanics like platforming challenges, AI-driven enemies, and level progression. GlitchAdventure was a great test of my skills in both Blueprints and C++, and I’m thrilled with how it turned out. Can’t wait to see what challenges lie ahead for me as I continue my journey into game development!
+## 🎮 Gameplay Highlights
+
+- **Precision Platforming**  
+  Navigate complex levels while avoiding hazards like deadly sea water. One wrong step, and it’s game over!
+
+- **Dynamic Obstacles**  
+  Moving platforms and challenging obstacles require quick thinking and precise timing.
+
+- **Coin Collection**  
+  Discover and collect coins scattered across levels. Some are hidden, others inside breakable wooden boxes—are you lucky enough?
+
+- **Combat System**  
+  Use fire bullets to battle enemies, with strategic dodging and health management playing key roles in survival.
+
+- **Level Progression**  
+  Find keys to unlock new areas and continue your adventure into increasingly difficult zones.
+
+---
+
+## 🧠 What I Learned
+
+- **Blueprint + C++ Integration**  
+  Blended visual scripting with C++ to create flexible and maintainable game logic.
+
+- **Advanced Gameplay Mechanics**  
+  Designed systems for enemy AI, platforming, level unlocking, and damage handling.
+
+- **Level Design**  
+  Crafted engaging environments that challenge both movement and decision-making.
+
+- **Player Feedback & Polish**  
+  Fine-tuned controls, collision logic, and animations to create a smooth and fun experience.
+
+---
+
+## 🚀 What’s Next?
+
+This project was a major milestone in my Unreal Engine journey.  
+I’m excited to explore new gameplay mechanics, expand level variety, and continue pushing my design and programming skills.
+
+[![Watch the video](https://img.youtube.com/vi/TsIJhl2OMP0/maxresdefault.jpg)](https://youtu.be/TsIJhl2OMP0)
+### [Gameplay Video](https://youtu.be/TsIJhl2OMP0)
 
 ![Glitch_Adventure_01](https://github.com/user-attachments/assets/512fbde5-a17b-4b03-9e5b-2b9d1be47cd9)
 
