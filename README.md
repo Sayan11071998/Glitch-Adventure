@@ -5,7 +5,7 @@ From tricky platforms to fierce enemies and hidden treasures, this game is all a
 
 ---
 
-## 🎮 Gameplay Highlights
+## Gameplay Highlights
 
 - **Precision Platforming**  
   Navigate complex levels while avoiding hazards like deadly sea water. One wrong step, and it’s game over!
@@ -24,7 +24,7 @@ From tricky platforms to fierce enemies and hidden treasures, this game is all a
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - **Blueprint + C++ Integration**  
   Blended visual scripting with C++ to create flexible and maintainable game logic.
@@ -40,7 +40,7 @@ From tricky platforms to fierce enemies and hidden treasures, this game is all a
 
 ---
 
-## 🚀 What’s Next?
+## What’s Next?
 
 This project was a major milestone in my Unreal Engine journey.  
 I’m excited to explore new gameplay mechanics, expand level variety, and continue pushing my design and programming skills.
